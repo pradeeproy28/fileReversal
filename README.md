@@ -3,4 +3,4 @@ FileReversal.java will reverse the contents of file(s) specified as argument to 
 
 Usage:
 
-FileReversal <fileName1> <fileName2> ..
+FileReversal fileName1 fileName2 ..
